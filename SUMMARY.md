@@ -4,7 +4,7 @@
 
 ## 1. Введение
 
-* [NetChrom v3.0](1.-vvedenie/netchrom-v3.0.md)
+* [Информация о ПО NetChrom 3.0](1.-vvedenie/informaciya-o-po-netchrom-3.0.md)
 
 ## 2. Теоретические основы
 
