@@ -15,7 +15,7 @@
 * [Хроматограмма](2.-teoreticheskie-osnovy/khromatogramma.md)
 * [Обработка хроматографического сигнала](2.-teoreticheskie-osnovy/obrabotka-khromatograficheskogo-signala.md)
 * [Фильтрация шумов](2.-teoreticheskie-osnovy/filtraciya-shumov.md)
-* [!Разметка пиков](2.-teoreticheskie-osnovy/razmetka-pikov.md)
+* [Разметка и интегрирование пиков](2.-teoreticheskie-osnovy/razmetka-i-integrirovanie-pikov.md)
 * [!Идентификация пиков](2.-teoreticheskie-osnovy/identifikaciya-pikov.md)
 * [!Градуировка](2.-teoreticheskie-osnovy/graduirovka.md)
 * [!Количественный расчет](2.-teoreticheskie-osnovy/kolichestvennyi-raschet.md)
