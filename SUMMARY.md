@@ -4,11 +4,21 @@
 
 ## 1. Введение
 
-* [Информация о ПО NetChrom 3.0](1.-vvedenie/informaciya-o-po-netchrom-3.0.md)
+* [NetChrom 3.0](1.-vvedenie/netchrom-3.0.md)
+* [Системные требования](1.-vvedenie/sistemnye-trebovaniya.md)
+* [Справка для самых маленьких](1.-vvedenie/spravka-dlya-samykh-malenkikh.md)
 
 ## 2. Теоретические основы
 
 * [Основы хроматографии](2.-teoreticheskie-osnovy/osnovy-khromatografii.md)
+* [Устройство газового хроматографа](2.-teoreticheskie-osnovy/ustroistvo-gazovogo-khromatografa.md)
+* [Хроматограмма](2.-teoreticheskie-osnovy/khromatogramma.md)
+* [Обработка хроматографического сигнала](2.-teoreticheskie-osnovy/obrabotka-khromatograficheskogo-signala.md)
+* [Фильтрация шумов](2.-teoreticheskie-osnovy/filtraciya-shumov.md)
+* [!Разметка пиков](2.-teoreticheskie-osnovy/razmetka-pikov.md)
+* [!Идентификация пиков](2.-teoreticheskie-osnovy/identifikaciya-pikov.md)
+* [!Градуировка](2.-teoreticheskie-osnovy/graduirovka.md)
+* [!Количественный расчет](2.-teoreticheskie-osnovy/kolichestvennyi-raschet.md)
 
 ## 3. Структура программы
 
@@ -18,8 +28,8 @@
 
 ## 4. Настройки
 
-* [Установка и запуск](4.-nastroiki/ustanovka-i-zapusk.md)
-* [Настройки NetChrom](4.-nastroiki/nastroiki-netchrom.md)
+* [!Установка и запуск](4.-nastroiki/ustanovka-i-zapusk.md)
+* [!Настройки NetChrom](4.-nastroiki/nastroiki-netchrom.md)
 * [Настройки хроматограммы](4.-nastroiki/nastroiki-khromatogrammy.md)
 * [Настройки таблиц](4.-nastroiki/nastroiki-tablic.md)
 * [Общие настройки](4.-nastroiki/obshie-nastroiki.md)
