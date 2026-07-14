@@ -68,3 +68,5 @@
 * **\[По умолчанию]** — восстановление "заводских" (базовых) установок параметров для текущего раздела.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption><p>Окно "Настройки"</p></figcaption></figure></div>
+
+***

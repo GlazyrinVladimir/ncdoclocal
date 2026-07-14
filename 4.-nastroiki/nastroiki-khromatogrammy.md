@@ -116,3 +116,5 @@
 * **Заливка выбранной группы** — цвет заполнения площади для всех пиков, входящих в выделенную группу.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure></div>
+
+***

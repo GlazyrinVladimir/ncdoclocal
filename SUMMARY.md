@@ -46,10 +46,6 @@
 * [Метод — Конфигурация устройств](5.-rabota-s-metodom/metod-konfiguraciya-ustroistv.md)
 * [Метод — Звуковые сигналы](5.-rabota-s-metodom/metod-zvukovye-signaly.md)
 
-***
-
-* [!!!Метод хроматограммы](metod-khromatogrammy.md)
-
 ## 6. Управление хроматографом
 
 * [Сеть хроматографов](6.-upravlenie-khromatografom/set-khromatografov.md)

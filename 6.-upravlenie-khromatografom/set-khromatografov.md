@@ -30,4 +30,6 @@
 Текущий статус работы («Этап: Нулевой») и время с начала процесса отображаются непосредственно под названием каждого прибора, что позволяет контролировать состояние всей лаборатории из одного окна.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption><p>Сеть хроматографов</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption><p>Сеть хроматографов</p></figcaption></figure></div>
+
+***
