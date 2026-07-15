@@ -29,9 +29,9 @@
 ## 4. Настройки
 
 * [!Установка и запуск](4.-nastroiki/ustanovka-i-zapusk.md)
-* [!Настройки NetChrom](4.-nastroiki/nastroiki-netchrom.md)
-* [Настройки хроматограммы](4.-nastroiki/nastroiki-khromatogrammy.md)
-* [Настройки таблиц](4.-nastroiki/nastroiki-tablic.md)
+* [!Настройки](4.-nastroiki/nastroiki.md)
+* [Настройка отображения хроматограмм](4.-nastroiki/nastroika-otobrazheniya-khromatogramm.md)
+* [Настройка структуры таблиц](4.-nastroiki/nastroika-struktury-tablic.md)
 * [Общие настройки](4.-nastroiki/obshie-nastroiki.md)
 
 ## 5. Работа с методом
