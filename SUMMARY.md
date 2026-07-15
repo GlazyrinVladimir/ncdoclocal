@@ -6,7 +6,7 @@
 
 * [NetChrom 3.0](1.-vvedenie/netchrom-3.0.md)
 * [Системные требования](1.-vvedenie/sistemnye-trebovaniya.md)
-* [Справка для самых маленьких](1.-vvedenie/spravka-dlya-samykh-malenkikh.md)
+* [Элементы интерфейса и органы управления](1.-vvedenie/elementy-interfeisa-i-organy-upravleniya.md)
 
 ## 2. Теоретические основы
 
