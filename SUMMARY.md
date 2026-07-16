@@ -29,15 +29,16 @@
 ## 4. Настройки
 
 * [!Установка и запуск](4.-nastroiki/ustanovka-i-zapusk.md)
-* [!Настройки](4.-nastroiki/nastroiki.md)
+* [Настройки](4.-nastroiki/nastroiki.md)
 * [Настройка отображения хроматограмм](4.-nastroiki/nastroika-otobrazheniya-khromatogramm.md)
 * [Настройка структуры таблиц](4.-nastroiki/nastroika-struktury-tablic.md)
 * [Общие настройки](4.-nastroiki/obshie-nastroiki.md)
 
 ## 5. Работа с методом
 
-* [Что такое метод](5.-rabota-s-metodom/chto-takoe-metod.md)
+* [Рабочий метод](5.-rabota-s-metodom/rabochii-metod.md)
 * [Создание метода](5.-rabota-s-metodom/sozdanie-metoda.md)
+* [Структура метода](5.-rabota-s-metodom/struktura-metoda.md)
 * [Паспорт](5.-rabota-s-metodom/pasport.md)
 * [Метод — Управление](5.-rabota-s-metodom/metod-upravlenie.md)
 * [Метод — Расчёты](5.-rabota-s-metodom/metod-raschyoty.md)
