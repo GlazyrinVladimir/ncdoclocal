@@ -49,11 +49,11 @@
 ## 6. Управление хроматографом
 
 * [Сеть хроматографов](6.-upravlenie-khromatografom/set-khromatografov.md)
-* [!Управление хроматографом](6.-upravlenie-khromatografom/upravlenie-khromatografom.md)
+* [!картинки - Управление хроматографом](6.-upravlenie-khromatografom/kartinki-upravlenie-khromatografom.md)
 
 ## Конфигурация хроматографа
 
-* [!Конфигурация хроматографа](konfiguraciya-khromatografa/konfiguraciya-khromatografa.md)
+* [Конфигурация хроматографа](konfiguraciya-khromatografa/konfiguraciya-khromatografa.md)
 * [!Регуляторы расхода газа](konfiguraciya-khromatografa/regulyatory-raskhoda-gaza.md)
 * [!Регуляторы давления](konfiguraciya-khromatografa/regulyatory-davleniya.md)
 * [!Регуляторы для ДТП](konfiguraciya-khromatografa/regulyatory-dlya-dtp.md)
