@@ -54,8 +54,8 @@
 ## Конфигурация хроматографа
 
 * [Конфигурация хроматографа](konfiguraciya-khromatografa/konfiguraciya-khromatografa.md)
-* [!Регуляторы расхода газа](konfiguraciya-khromatografa/regulyatory-raskhoda-gaza.md)
-* [!Регуляторы давления](konfiguraciya-khromatografa/regulyatory-davleniya.md)
+* [Регуляторы расхода газа](konfiguraciya-khromatografa/regulyatory-raskhoda-gaza.md)
+* [Регуляторы давления](konfiguraciya-khromatografa/regulyatory-davleniya.md)
 * [!Регуляторы для ДТП](konfiguraciya-khromatografa/regulyatory-dlya-dtp.md)
 * [!Колонки](konfiguraciya-khromatografa/kolonki.md)
 * [!Устройства](konfiguraciya-khromatografa/ustroistva.md)
