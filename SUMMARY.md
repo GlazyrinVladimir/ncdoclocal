@@ -40,11 +40,11 @@
 * [Создание метода](5.-rabota-s-metodom/sozdanie-metoda.md)
 * [Структура метода](5.-rabota-s-metodom/struktura-metoda.md)
 * [Паспорт](5.-rabota-s-metodom/pasport.md)
-* [Метод — Управление](5.-rabota-s-metodom/metod-upravlenie.md)
-* [Метод — Расчёты](5.-rabota-s-metodom/metod-raschyoty.md)
-* [Метод — Компоненты и группы](5.-rabota-s-metodom/metod-komponenty-i-gruppy.md)
-* [Метод — Обработка](5.-rabota-s-metodom/metod-obrabotka.md)
-* [Метод — Конфигурация устройств](5.-rabota-s-metodom/metod-konfiguraciya-ustroistv.md)
+* [Управление](5.-rabota-s-metodom/upravlenie.md)
+* [!Расчёты](5.-rabota-s-metodom/raschyoty.md)
+* [!Компоненты и группы](5.-rabota-s-metodom/komponenty-i-gruppy.md)
+* [Обработка](5.-rabota-s-metodom/obrabotka.md)
+* [Конфигурация устройств](5.-rabota-s-metodom/konfiguraciya-ustroistv.md)
 * [Метод — Звуковые сигналы](5.-rabota-s-metodom/metod-zvukovye-signaly.md)
 
 ## 6. Управление хроматографом
