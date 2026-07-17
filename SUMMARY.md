@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Untitled](README.md)
+* [NeTcHrOm 3.o](README.md)
 
 ## 1. Введение
 
@@ -58,8 +58,8 @@
 * [Регуляторы давления](konfiguraciya-khromatografa/regulyatory-davleniya.md)
 * [Регуляторы для ДТП](konfiguraciya-khromatografa/regulyatory-dlya-dtp.md)
 * [Колонки](konfiguraciya-khromatografa/kolonki.md)
-* [!Устройства](konfiguraciya-khromatografa/ustroistva.md)
-* [!Блокировки](konfiguraciya-khromatografa/blokirovki.md)
+* [Устройства](konfiguraciya-khromatografa/ustroistva.md)
+* [Блокировки](konfiguraciya-khromatografa/blokirovki.md)
 * [!Поджиг](konfiguraciya-khromatografa/podzhig.md)
 
 ***

@@ -31,11 +31,17 @@
 Используйте для активации только нужных детекторов в методе.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p>Управление</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p>Выбор рабочих детекторов</p></figcaption></figure></div>
 
 ### Дополнительные параметры детектора ДТП&#x20;
 
 При работе с ДТП необходимо  задать значение тока моста.
+
+**Важное правило валидации параметров:** Вводимое значение рабочего тока жестко ограничено глобальными настройками безопасности прибора. Программа автоматически заблокирует попытку задать ток выше лимита, установленного для текущего газа-носителя.
+
+{% hint style="danger" %}
+Перед установкой уставки тока ознакомьтесь с [Регламентной таблицей рабочих токов](../konfiguraciya-khromatografa/blokirovki.md#reglamentnye-ogranicheniya-po-tipam-gazov-nositelei) и правил защиты ДТП в разделе [глобальных блокировок хроматографа](../konfiguraciya-khromatografa/blokirovki.md).
+{% endhint %}
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption><p>Ток ДТП</p></figcaption></figure></div>
 
