@@ -6,7 +6,7 @@
 
 Панель разделена на два независимых функциональных блока управления: **«Компоненты»** и **«Группы»**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption><p>Компоненты и группы</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption><p>Компоненты и группы</p></figcaption></figure></div>
 
 ### Компоненты (Индивидуальные вещества)
 
@@ -42,8 +42,6 @@
 {% hint style="info" %}
 Используйте поле **«Поиск»**, если в вашем методе более 20-30 компонентов. Это значительно ускоряет навигацию при корректировке времен удерживания.
 {% endhint %}
-
-<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
 ## Параметры
 
@@ -91,18 +89,6 @@
 <figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
-
-## <mark style="color:$danger;">Градуировка!!!!!!!</mark>
-
-Здесь отображаются данные проведенных градуировок компонента, которые могут быть откорректированы.
-
-{% hint style="warning" %}
-Вкладка недоступна при методе расчета - нормализация.
-{% endhint %}
-
-
-
-
 
 
 

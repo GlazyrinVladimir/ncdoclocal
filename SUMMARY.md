@@ -41,8 +41,9 @@
 * [Структура метода](5.-rabota-s-metodom/struktura-metoda.md)
 * [Паспорт](5.-rabota-s-metodom/pasport.md)
 * [Управление](5.-rabota-s-metodom/upravlenie.md)
-* [!Расчёты](5.-rabota-s-metodom/raschyoty.md)
+* [!!!!Расчёты](5.-rabota-s-metodom/raschyoty.md)
 * [!Компоненты и группы](5.-rabota-s-metodom/komponenty-i-gruppy.md)
+* [!!!!Градуировка - её нет лол](5.-rabota-s-metodom/graduirovka-eyo-net-lol.md)
 * [Обработка](5.-rabota-s-metodom/obrabotka.md)
 * [Конфигурация устройств](5.-rabota-s-metodom/konfiguraciya-ustroistv.md)
 
