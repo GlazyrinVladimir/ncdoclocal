@@ -63,13 +63,13 @@
 * [Сеть хроматографов](7.-upravlenie-khromatografom/set-khromatografov.md)
 * [!картинки - Управление хроматографом](7.-upravlenie-khromatografom/kartinki-upravlenie-khromatografom.md)
 * [Запуск анализа](7.-upravlenie-khromatografom/zapusk-analiza.md)
-* [!Запуск серии анализов](7.-upravlenie-khromatografom/zapusk-serii-analizov.md)
+* [!!!!Запуск серии анализов](7.-upravlenie-khromatografom/zapusk-serii-analizov.md)
 * [Видеосамописец](7.-upravlenie-khromatografom/videosamopisec.md)
 * [Состояние](7.-upravlenie-khromatografom/sostoyanie.md)
 * [Диагностика](7.-upravlenie-khromatografom/diagnostika.md)
 * [Этапы работы](7.-upravlenie-khromatografom/etapy-raboty.md)
 * [!Неисправности и регламент](7.-upravlenie-khromatografom/neispravnosti-i-reglament.md)
-* [!Журнал](7.-upravlenie-khromatografom/zhurnal.md)
+* [!!!!Журнал](7.-upravlenie-khromatografom/zhurnal.md)
 * [!Дополнительные режимы управления хроматографом](7.-upravlenie-khromatografom/dopolnitelnye-rezhimy-upravleniya-khromatografom.md)
 
 ## 7. Работа с хроматограммой
