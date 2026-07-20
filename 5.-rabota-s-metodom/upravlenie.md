@@ -40,7 +40,7 @@
 **Важное правило валидации параметров:** Вводимое значение рабочего тока жестко ограничено глобальными настройками безопасности прибора. Программа автоматически заблокирует попытку задать ток выше лимита, установленного для текущего газа-носителя.
 
 {% hint style="danger" %}
-Перед установкой уставки тока ознакомьтесь с [Регламентной таблицей рабочих токов](../konfiguraciya-khromatografa/blokirovki.md#reglamentnye-ogranicheniya-po-tipam-gazov-nositelei) и правил защиты ДТП в разделе [глобальных блокировок хроматографа](../konfiguraciya-khromatografa/blokirovki.md).
+Перед установкой уставки тока ознакомьтесь с [Регламентной таблицей рабочих токов](../6.-konfiguraciya-khromatografa/blokirovki.md#reglamentnye-ogranicheniya-po-tipam-gazov-nositelei) и правил защиты ДТП в разделе [глобальных блокировок хроматографа](../6.-konfiguraciya-khromatografa/blokirovki.md).
 {% endhint %}
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption><p>Ток ДТП</p></figcaption></figure></div>

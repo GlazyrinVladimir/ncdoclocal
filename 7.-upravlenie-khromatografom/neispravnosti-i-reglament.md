@@ -1,4 +1,4 @@
-# Неисправности и регламент
+# !Неисправности и регламент
 
 ## !!!Неисправности и регламент
 
@@ -8,7 +8,7 @@
 
 В нижней части окна отобразятся функциональные вкладки: **Регламент**, **Аварии и неисправности**, **Анализ хроматограммы**.
 
-<figure><img src=".gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:$danger;">!!!Регламент - рек. значения?</mark>
 
@@ -55,7 +55,7 @@
 2. <mark style="color:$danger;">В окне регламента нажмите на стрелку в правой части строки нужной операции.</mark>
 3. <mark style="color:$danger;">Подтвердите выполнение (сброс таймера). Значение в колонке</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">**«До регламента»**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">будет обновлено до исходного периода.</mark>
 
-<figure><img src=".gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 ### !!!Аварии и неисправности
 
@@ -63,8 +63,8 @@
 
 Для получения подробных пошаговых инструкций, физико-технических алгоритмов устранения неисправностей, правил чистки ячеек и проверки измерительных трактов детекторов перейдите к <mark style="color:$danger;">**Главе 1231231.**</mark>
 
-<figure><img src=".gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 ### !!!Неисправности хроматорграммы
 
-<figure><img src=".gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>

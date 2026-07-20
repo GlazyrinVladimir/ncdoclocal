@@ -1,4 +1,4 @@
-# Запуск серии анализов
+# !Запуск серии анализов
 
 ## !!!!!Режим серии анализов
 
@@ -10,7 +10,7 @@
 
 gg
 
-<figure><img src=".gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 ### !!!!!!!!Конфигурация дозатора
 

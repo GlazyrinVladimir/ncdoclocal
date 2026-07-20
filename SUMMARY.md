@@ -46,31 +46,28 @@
 * [Обработка](5.-rabota-s-metodom/obrabotka.md)
 * [Конфигурация устройств](5.-rabota-s-metodom/konfiguraciya-ustroistv.md)
 
-## 6. Управление хроматографом
+## 6. Конфигурация хроматографа
 
-* [Сеть хроматографов](6.-upravlenie-khromatografom/set-khromatografov.md)
-* [!картинки - Управление хроматографом](6.-upravlenie-khromatografom/kartinki-upravlenie-khromatografom.md)
+* [Конфигурация хроматографа](6.-konfiguraciya-khromatografa/konfiguraciya-khromatografa.md)
+* [Регуляторы расхода газа](6.-konfiguraciya-khromatografa/regulyatory-raskhoda-gaza.md)
+* [Регуляторы давления](6.-konfiguraciya-khromatografa/regulyatory-davleniya.md)
+* [Регуляторы для ДТП](6.-konfiguraciya-khromatografa/regulyatory-dlya-dtp.md)
+* [Колонки](6.-konfiguraciya-khromatografa/kolonki.md)
+* [Устройства](6.-konfiguraciya-khromatografa/ustroistva.md)
+* [Блокировки](6.-konfiguraciya-khromatografa/blokirovki.md)
+* [Ручной поджиг](6.-konfiguraciya-khromatografa/ruchnoi-podzhig.md)
 
-## Конфигурация хроматографа
+## 7. Управление хроматографом
 
-* [Конфигурация хроматографа](konfiguraciya-khromatografa/konfiguraciya-khromatografa.md)
-* [Регуляторы расхода газа](konfiguraciya-khromatografa/regulyatory-raskhoda-gaza.md)
-* [Регуляторы давления](konfiguraciya-khromatografa/regulyatory-davleniya.md)
-* [Регуляторы для ДТП](konfiguraciya-khromatografa/regulyatory-dlya-dtp.md)
-* [Колонки](konfiguraciya-khromatografa/kolonki.md)
-* [Устройства](konfiguraciya-khromatografa/ustroistva.md)
-* [Блокировки](konfiguraciya-khromatografa/blokirovki.md)
-* [!Поджиг](konfiguraciya-khromatografa/podzhig.md)
-
-***
-
-* [!Запуск анализа](zapusk-analiza.md)
-* [!Запуск серии анализов](zapusk-serii-analizov.md)
-* [!Видеосамописец](videosamopisec.md)
-* [!Состояние и диагностика](sostoyanie-i-diagnostika.md)
-* [!Неисправности и регламент](neispravnosti-i-reglament.md)
-* [!Журнал](zhurnal.md)
-* [!Дополнительные режимы управления хроматографом](dopolnitelnye-rezhimy-upravleniya-khromatografom.md)
+* [Сеть хроматографов](7.-upravlenie-khromatografom/set-khromatografov.md)
+* [!картинки - Управление хроматографом](7.-upravlenie-khromatografom/kartinki-upravlenie-khromatografom.md)
+* [Запуск анализа](7.-upravlenie-khromatografom/zapusk-analiza.md)
+* [!Запуск серии анализов](7.-upravlenie-khromatografom/zapusk-serii-analizov.md)
+* [!Видеосамописец](7.-upravlenie-khromatografom/videosamopisec.md)
+* [!Состояние и диагностика](7.-upravlenie-khromatografom/sostoyanie-i-diagnostika.md)
+* [!Неисправности и регламент](7.-upravlenie-khromatografom/neispravnosti-i-reglament.md)
+* [!Журнал](7.-upravlenie-khromatografom/zhurnal.md)
+* [!Дополнительные режимы управления хроматографом](7.-upravlenie-khromatografom/dopolnitelnye-rezhimy-upravleniya-khromatografom.md)
 
 ## 7. Работа с хроматограммой
 
