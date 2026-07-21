@@ -34,18 +34,18 @@
 * [Настройка структуры таблиц](4.-nastroiki/nastroika-struktury-tablic.md)
 * [Общие настройки](4.-nastroiki/obshie-nastroiki.md)
 
-## 5. Работа с методом
+## 5. Метод
 
-* [Рабочий метод](5.-rabota-s-metodom/rabochii-metod.md)
-* [Создание метода](5.-rabota-s-metodom/sozdanie-metoda.md)
-* [Структура метода](5.-rabota-s-metodom/struktura-metoda.md)
-* [Паспорт](5.-rabota-s-metodom/pasport.md)
-* [¿Управление? - оч много](5.-rabota-s-metodom/upravlenie-och-mnogo.md)
-* [!!!!Расчёты](5.-rabota-s-metodom/raschyoty.md)
-* [!Компоненты и ¿группы?](5.-rabota-s-metodom/komponenty-i-gruppy.md)
-* [!!!!Градуировка - её нет лол](5.-rabota-s-metodom/graduirovka-eyo-net-lol.md)
-* [Обработка](5.-rabota-s-metodom/obrabotka.md)
-* [Конфигурация устройств - потом разделить можно?](5.-rabota-s-metodom/konfiguraciya-ustroistv-potom-razdelit-mozhno.md)
+* [Рабочий метод](5.-metod/rabochii-metod.md)
+* [Создание метода](5.-metod/sozdanie-metoda.md)
+* [Структура метода](5.-metod/struktura-metoda.md)
+* [Паспорт](5.-metod/pasport.md)
+* [¿Управление? - оч много](5.-metod/upravlenie-och-mnogo.md)
+* [!!!!Расчёты](5.-metod/raschyoty.md)
+* [!Компоненты и ¿группы?](5.-metod/komponenty-i-gruppy.md)
+* [!!!!Градуировка - её нет лол](5.-metod/graduirovka-eyo-net-lol.md)
+* [Обработка](5.-metod/obrabotka.md)
+* [Конфигурация устройств - потом разделить можно?](5.-metod/konfiguraciya-ustroistv-potom-razdelit-mozhno.md)
 
 ## 6. Конфигурация хроматографа
 
@@ -70,15 +70,23 @@
 * [Этапы работы](7.-upravlenie-khromatografom/etapy-raboty.md)
 * [Неисправности и регламент](7.-upravlenie-khromatografom/neispravnosti-i-reglament.md)
 * [Журнал](7.-upravlenie-khromatografom/zhurnal.md)
-* [!Дополнительные режимы управления хроматографом](7.-upravlenie-khromatografom/dopolnitelnye-rezhimy-upravleniya-khromatografom.md)
+* [Дополнительные режимы](7.-upravlenie-khromatografom/dopolnitelnye-rezhimy.md)
 
 ## 8. Работа с хроматограммой
 
 * [!Работа с хроматограммой](8.-rabota-s-khromatogrammoi/rabota-s-khromatogrammoi.md)
+* [!Файловый менеджер](8.-rabota-s-khromatogrammoi/failovyi-menedzher.md)
+* [!Окно обработки хроматограммы](8.-rabota-s-khromatogrammoi/okno-obrabotki-khromatogrammy.md)
+* [!Метод хроматограммы](8.-rabota-s-khromatogrammoi/metod-khromatogrammy.md)
+* [!!!Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
+* [¿¿¿Ручное редактирование???](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie.md)
+* [!!!!!!!!!!!Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/graduirovka-khromatogrammy.md)
+* [!!!!Поверка - шум, дрейф, предел](8.-rabota-s-khromatogrammoi/poverka-shum-dreif-predel.md)
+* [!!!!Статистика](8.-rabota-s-khromatogrammoi/statistika.md)
 
 ## 9. Сервисные функции (дополнительно, поверка, внешний расчёт, печать)
 
-* [!Сервисные функции (Поверка?)](9.-servisnye-funkcii-dopolnitelno-poverka-vneshnii-raschyot-pechat/servisnye-funkcii-poverka.md)
+* [!Сервисные функции](9.-servisnye-funkcii-dopolnitelno-poverka-vneshnii-raschyot-pechat/servisnye-funkcii.md)
 
 ## 10. Справочник неисправностей
 
