@@ -43,7 +43,7 @@
 * [¿Управление? - оч много](5.-metod/upravlenie-och-mnogo.md)
 * [!!!!Расчёты](5.-metod/raschyoty.md)
 * [!Компоненты и ¿группы?](5.-metod/komponenty-i-gruppy.md)
-* [!!!!Градуировка - её нет лол](5.-metod/graduirovka-eyo-net-lol.md)
+* [!!!!Градуировка в методе как раздел](5.-metod/graduirovka-v-metode-kak-razdel.md)
 * [Обработка](5.-metod/obrabotka.md)
 * [Конфигурация устройств - потом разделить можно?](5.-metod/konfiguraciya-ustroistv-potom-razdelit-mozhno.md)
 
@@ -80,7 +80,7 @@
 * [!Метод хроматограммы](8.-rabota-s-khromatogrammoi/metod-khromatogrammy.md)
 * [!!!Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
 * [¿¿¿Ручное редактирование???](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie.md)
-* [!!!!!!!!!!!Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/graduirovka-khromatogrammy.md)
+* [!!!!!!!!!!!фулл Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/full-graduirovka-khromatogrammy.md)
 * [!!!!Поверка - шум, дрейф, предел](8.-rabota-s-khromatogrammoi/poverka-shum-dreif-predel.md)
 * [!!!!Статистика](8.-rabota-s-khromatogrammoi/statistika.md)
 
