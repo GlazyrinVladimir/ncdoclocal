@@ -53,7 +53,7 @@
 
 В подмодуле **«Токи»** вкладки блокировок устанавливается предельно допустимое значение силы тока для питания измерительных мостов детекторов по теплопроводности (катарометров).
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ограничение тока ДТП</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Ограничение тока ДТП</p></figcaption></figure></div>
 
 ### Назначение и физический смысл блокировки
 

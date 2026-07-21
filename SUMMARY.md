@@ -40,12 +40,12 @@
 * [Создание метода](5.-rabota-s-metodom/sozdanie-metoda.md)
 * [Структура метода](5.-rabota-s-metodom/struktura-metoda.md)
 * [Паспорт](5.-rabota-s-metodom/pasport.md)
-* [Управление](5.-rabota-s-metodom/upravlenie.md)
+* [¿Управление? - оч много](5.-rabota-s-metodom/upravlenie-och-mnogo.md)
 * [!!!!Расчёты](5.-rabota-s-metodom/raschyoty.md)
-* [!Компоненты и группы](5.-rabota-s-metodom/komponenty-i-gruppy.md)
+* [!Компоненты и ¿группы?](5.-rabota-s-metodom/komponenty-i-gruppy.md)
 * [!!!!Градуировка - её нет лол](5.-rabota-s-metodom/graduirovka-eyo-net-lol.md)
 * [Обработка](5.-rabota-s-metodom/obrabotka.md)
-* [Конфигурация устройств](5.-rabota-s-metodom/konfiguraciya-ustroistv.md)
+* [Конфигурация устройств - потом разделить можно?](5.-rabota-s-metodom/konfiguraciya-ustroistv-potom-razdelit-mozhno.md)
 
 ## 6. Конфигурация хроматографа
 
@@ -61,28 +61,29 @@
 ## 7. Управление хроматографом
 
 * [Сеть хроматографов](7.-upravlenie-khromatografom/set-khromatografov.md)
-* [!картинки - Управление хроматографом](7.-upravlenie-khromatografom/kartinki-upravlenie-khromatografom.md)
+* [Управление хроматографом](7.-upravlenie-khromatografom/upravlenie-khromatografom.md)
 * [Запуск анализа](7.-upravlenie-khromatografom/zapusk-analiza.md)
 * [!!!!Запуск серии анализов](7.-upravlenie-khromatografom/zapusk-serii-analizov.md)
 * [Видеосамописец](7.-upravlenie-khromatografom/videosamopisec.md)
 * [Состояние](7.-upravlenie-khromatografom/sostoyanie.md)
 * [Диагностика](7.-upravlenie-khromatografom/diagnostika.md)
 * [Этапы работы](7.-upravlenie-khromatografom/etapy-raboty.md)
-* [!Неисправности и регламент](7.-upravlenie-khromatografom/neispravnosti-i-reglament.md)
-* [!!!!Журнал](7.-upravlenie-khromatografom/zhurnal.md)
+* [Неисправности и регламент](7.-upravlenie-khromatografom/neispravnosti-i-reglament.md)
+* [Журнал](7.-upravlenie-khromatografom/zhurnal.md)
 * [!Дополнительные режимы управления хроматографом](7.-upravlenie-khromatografom/dopolnitelnye-rezhimy-upravleniya-khromatografom.md)
 
-## 7. Работа с хроматограммой
+## 8. Работа с хроматограммой
 
-* [!Работа с хроматограммой](7.-rabota-s-khromatogrammoi/rabota-s-khromatogrammoi.md)
+* [!Работа с хроматограммой](8.-rabota-s-khromatogrammoi/rabota-s-khromatogrammoi.md)
 
-## Сервисные функции (дополнительно, поверка, внешний расчёт, печать)
+## 9. Сервисные функции (дополнительно, поверка, внешний расчёт, печать)
 
-* [!Сервисные функции (Поверка?)](servisnye-funkcii-dopolnitelno-poverka-vneshnii-raschyot-pechat/servisnye-funkcii-poverka.md)
+* [!Сервисные функции (Поверка?)](9.-servisnye-funkcii-dopolnitelno-poverka-vneshnii-raschyot-pechat/servisnye-funkcii-poverka.md)
 
-## 10. Аварии и неисправности
+## 10. Справочник неисправностей
 
-* [Аварии и неисправности](10.-avarii-i-neispravnosti/avarii-i-neispravnosti.md)
+* [Аварии и неисправности](10.-spravochnik-neispravnostei/avarii-i-neispravnosti.md)
+* [Неисправности хроматограммы](10.-spravochnik-neispravnostei/neispravnosti-khromatogrammy.md)
 
 ## 11. Пошаговое руководство
 

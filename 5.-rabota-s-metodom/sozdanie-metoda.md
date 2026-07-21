@@ -23,9 +23,9 @@
 
 ## **Для создания рабочего метода выполните следующие действия:**
 
-1. **Запуск менеджера:** На стартовой странице программного комплекса нажмите кнопку **Открыть**. Будет запущено окно файлового менеджера. <img src="../.gitbook/assets/image (25).png" alt="" data-size="line">
+1. **Запуск менеджера:** На стартовой странице нажмите кнопку **Открыть**. Будет запущено окно файлового менеджера. <img src="../.gitbook/assets/image (25).png" alt="" data-size="line">
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Стартовая страница</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Открыть файловый менеджер</p></figcaption></figure></div>
 
 {% hint style="info" %}
 Файловый менеджер автоматически откроется для хроматографа, активного на стартовой странице.
