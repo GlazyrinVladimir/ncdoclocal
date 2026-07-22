@@ -41,7 +41,7 @@
 * [Структура метода](5.-metod/struktura-metoda.md)
 * [Паспорт](5.-metod/pasport.md)
 * [¿Управление? - оч много](5.-metod/upravlenie-och-mnogo.md)
-* [!!!!Расчёты](5.-metod/raschyoty.md)
+* [Расчёты](5.-metod/raschyoty.md)
 * [!Компоненты и ¿группы?](5.-metod/komponenty-i-gruppy.md)
 * [!!!!Градуировка в методе как раздел](5.-metod/graduirovka-v-metode-kak-razdel.md)
 * [Обработка](5.-metod/obrabotka.md)
@@ -75,8 +75,8 @@
 ## 8. Работа с хроматограммой
 
 * [!Работа с хроматограммой](8.-rabota-s-khromatogrammoi/rabota-s-khromatogrammoi.md)
-* [!Файловый менеджер](8.-rabota-s-khromatogrammoi/failovyi-menedzher.md)
-* [!Окно обработки хроматограммы](8.-rabota-s-khromatogrammoi/okno-obrabotki-khromatogrammy.md)
+* [Файловый менеджер](8.-rabota-s-khromatogrammoi/failovyi-menedzher.md)
+* [Окно обработки хроматограммы](8.-rabota-s-khromatogrammoi/okno-obrabotki-khromatogrammy.md)
 * [!Метод хроматограммы](8.-rabota-s-khromatogrammoi/metod-khromatogrammy.md)
 * [!!!Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
 * [¿¿¿Ручное редактирование???](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie.md)
