@@ -28,10 +28,10 @@
 
 ## 4. Настройки
 
-* [!Установка и запуск](4.-nastroiki/ustanovka-i-zapusk.md)
+* [!Установка? и запуск](4.-nastroiki/ustanovka-i-zapusk.md)
 * [Настройки](4.-nastroiki/nastroiki.md)
 * [Настройка отображения хроматограмм](4.-nastroiki/nastroika-otobrazheniya-khromatogramm.md)
-* [Настройка структуры таблиц](4.-nastroiki/nastroika-struktury-tablic.md)
+* [!картинки Настройка структуры таблиц](4.-nastroiki/kartinki-nastroika-struktury-tablic.md)
 * [Общие настройки](4.-nastroiki/obshie-nastroiki.md)
 
 ## 5. Метод
@@ -74,10 +74,10 @@
 
 ## 8. Работа с хроматограммой
 
-* [!Работа с хроматограммой](8.-rabota-s-khromatogrammoi/rabota-s-khromatogrammoi.md)
+* [Page 1](8.-rabota-s-khromatogrammoi/page-1.md)
 * [Файловый менеджер](8.-rabota-s-khromatogrammoi/failovyi-menedzher.md)
 * [Окно обработки хроматограммы](8.-rabota-s-khromatogrammoi/okno-obrabotki-khromatogrammy.md)
-* [!Метод хроматограммы](8.-rabota-s-khromatogrammoi/metod-khromatogrammy.md)
+* [Метод хроматограммы](8.-rabota-s-khromatogrammoi/metod-khromatogrammy.md)
 * [!!!Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
 * [¿¿¿Ручное редактирование???](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie.md)
 * [!!!!!!!!!!!фулл Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/full-graduirovka-khromatogrammy.md)
