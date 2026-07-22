@@ -78,7 +78,7 @@
 * [Файловый менеджер](8.-rabota-s-khromatogrammoi/failovyi-menedzher.md)
 * [Окно обработки хроматограммы](8.-rabota-s-khromatogrammoi/okno-obrabotki-khromatogrammy.md)
 * [Метод хроматограммы](8.-rabota-s-khromatogrammoi/metod-khromatogrammy.md)
-* [!!!Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
+* [Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
 * [¿¿¿Ручное редактирование???](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie.md)
 * [!!!!!!!!!!!фулл Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/full-graduirovka-khromatogrammy.md)
 * [!!!!Поверка - шум, дрейф, предел](8.-rabota-s-khromatogrammoi/poverka-shum-dreif-predel.md)
