@@ -37,7 +37,7 @@
 
 Панель предназначена для формирования задания на выполнение конкретного измерения, ввода метаданных и выбора расчетных алгоритмов.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Часть окна, отвечающая за запуск анализа</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Часть окна, отвечающая за запуск анализа</p></figcaption></figure></div>
 
 #### Планировщик (Режим серии анализов)
 

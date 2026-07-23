@@ -49,6 +49,7 @@
 
 ## 6. Конфигурация хроматографа
 
+* [Сеть хроматографов](6.-konfiguraciya-khromatografa/set-khromatografov.md)
 * [Конфигурация хроматографа](6.-konfiguraciya-khromatografa/konfiguraciya-khromatografa.md)
 * [Регуляторы расхода газа](6.-konfiguraciya-khromatografa/regulyatory-raskhoda-gaza.md)
 * [Регуляторы давления](6.-konfiguraciya-khromatografa/regulyatory-davleniya.md)
@@ -60,7 +61,6 @@
 
 ## 7. Управление хроматографом
 
-* [Сеть хроматографов](7.-upravlenie-khromatografom/set-khromatografov.md)
 * [Управление хроматографом](7.-upravlenie-khromatografom/upravlenie-khromatografom.md)
 * [Запуск анализа](7.-upravlenie-khromatografom/zapusk-analiza.md)
 * [!!!!Запуск серии анализов](7.-upravlenie-khromatografom/zapusk-serii-analizov.md)
