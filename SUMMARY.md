@@ -15,8 +15,9 @@
 * [Хроматограмма](2.-teoreticheskie-osnovy/khromatogramma.md)
 * [Обработка хроматографического сигнала](2.-teoreticheskie-osnovy/obrabotka-khromatograficheskogo-signala.md)
 * [Фильтрация шумов](2.-teoreticheskie-osnovy/filtraciya-shumov.md)
+* [Методы фильтрации  шумов](2.-teoreticheskie-osnovy/metody-filtracii-shumov.md)
 * [Разметка и интегрирование пиков](2.-teoreticheskie-osnovy/razmetka-i-integrirovanie-pikov.md)
-* [Идентификация пиков](2.-teoreticheskie-osnovy/identifikaciya-pikov.md)
+* [!!Идентификация пиков-многа букаф!!](2.-teoreticheskie-osnovy/identifikaciya-pikov-mnoga-bukaf.md)
 * [!Градуировка](2.-teoreticheskie-osnovy/graduirovka.md)
 * [!Количественный расчет](2.-teoreticheskie-osnovy/kolichestvennyi-raschet.md)
 
@@ -28,7 +29,8 @@
 
 ## 4. Настройки
 
-* [!Установка? и запуск](4.-nastroiki/ustanovka-i-zapusk.md)
+* [!Установка?=](4.-nastroiki/ustanovka.md)
+* [Запуск](4.-nastroiki/zapusk.md)
 * [Настройки](4.-nastroiki/nastroiki.md)
 * [Настройка отображения хроматограмм](4.-nastroiki/nastroika-otobrazheniya-khromatogramm.md)
 * [!картинки Настройка структуры таблиц](4.-nastroiki/kartinki-nastroika-struktury-tablic.md)
@@ -45,7 +47,7 @@
 * [!Компоненты и ¿группы?](5.-metod/komponenty-i-gruppy.md)
 * [!!!!Градуировка в методе как раздел](5.-metod/graduirovka-v-metode-kak-razdel.md)
 * [Обработка](5.-metod/obrabotka.md)
-* [Конфигурация устройств - потом разделить можно?](5.-metod/konfiguraciya-ustroistv-potom-razdelit-mozhno.md)
+* [Конфигурация устройств](5.-metod/konfiguraciya-ustroistv.md)
 
 ## 6. Конфигурация хроматографа
 
@@ -74,19 +76,19 @@
 
 ## 8. Работа с хроматограммой
 
-* [Page 1](8.-rabota-s-khromatogrammoi/page-1.md)
 * [Файловый менеджер](8.-rabota-s-khromatogrammoi/failovyi-menedzher.md)
 * [Окно обработки хроматограммы](8.-rabota-s-khromatogrammoi/okno-obrabotki-khromatogrammy.md)
 * [Метод хроматограммы](8.-rabota-s-khromatogrammoi/metod-khromatogrammy.md)
 * [Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
-* [¿¿¿Ручное редактирование???](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie.md)
-* [!!!!!!!!!!!фулл Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/full-graduirovka-khromatogrammy.md)
-* [!!!!Поверка - шум, дрейф, предел](8.-rabota-s-khromatogrammoi/poverka-shum-dreif-predel.md)
+* [Идентификация пиков](8.-rabota-s-khromatogrammoi/identifikaciya-pikov.md)
+* [!!!Ручное редактирование хроматограммы](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie-khromatogrammy.md)
+* [!!!!!!!!!!!Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/graduirovka-khromatogrammy.md)
+* [!!!Поверка](8.-rabota-s-khromatogrammoi/poverka.md)
 * [!!!!Статистика](8.-rabota-s-khromatogrammoi/statistika.md)
 
-## 9. Сервисные функции (дополнительно, поверка, внешний расчёт, печать)
+## 9. Сервисные функции
 
-* [!Сервисные функции](9.-servisnye-funkcii-dopolnitelno-poverka-vneshnii-raschyot-pechat/servisnye-funkcii.md)
+* [!!!Печать отчёта](9.-servisnye-funkcii/pechat-otchyota.md)
 
 ## 10. Справочник неисправностей
 
