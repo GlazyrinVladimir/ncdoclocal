@@ -81,7 +81,7 @@
 * [Метод хроматограммы](8.-rabota-s-khromatogrammoi/metod-khromatogrammy.md)
 * [Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
 * [Идентификация пиков](8.-rabota-s-khromatogrammoi/identifikaciya-pikov.md)
-* [!!!Ручное редактирование хроматограммы](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie-khromatogrammy.md)
+* [Ручное редактирование хроматограммы](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie-khromatogrammy.md)
 * [!!!!!!!!!!!Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/graduirovka-khromatogrammy.md)
 * [!!!Поверка](8.-rabota-s-khromatogrammoi/poverka.md)
 * [!!!!Статистика](8.-rabota-s-khromatogrammoi/statistika.md)
