@@ -27,14 +27,17 @@
 * [Виды файлов](3.-struktura-programmy/vidy-failov.md)
 * [Структура программы](3.-struktura-programmy/struktura-programmy.md)
 
-## 4. Настройки
+## 4. Запуск и настройки
 
-* [!Установка?=](4.-nastroiki/ustanovka.md)
-* [Запуск](4.-nastroiki/zapusk.md)
-* [Настройки](4.-nastroiki/nastroiki.md)
-* [Настройка отображения хроматограмм](4.-nastroiki/nastroika-otobrazheniya-khromatogramm.md)
-* [!картинки Настройка структуры таблиц](4.-nastroiki/kartinki-nastroika-struktury-tablic.md)
-* [Общие настройки](4.-nastroiki/obshie-nastroiki.md)
+* [!Установка?=](4.-zapusk-i-nastroiki/ustanovka.md)
+* [Запуск](4.-zapusk-i-nastroiki/zapusk.md)
+* [Настройки](4.-zapusk-i-nastroiki/nastroiki.md)
+* [Настройка отображения хроматограмм](4.-zapusk-i-nastroiki/nastroika-otobrazheniya-khromatogramm.md)
+* [Настройка структуры таблиц](4.-zapusk-i-nastroiki/nastroika-struktury-tablic.md)
+* [Настройка таблицы пиков](4.-zapusk-i-nastroiki/nastroika-tablicy-pikov.md)
+* [Настройка таблицы компонентов](4.-zapusk-i-nastroiki/nastroika-tablicy-komponentov.md)
+* [Настройка таблицы групп](4.-zapusk-i-nastroiki/nastroika-tablicy-grupp.md)
+* [Общие настройки](4.-zapusk-i-nastroiki/obshie-nastroiki.md)
 
 ## 5. Метод
 
