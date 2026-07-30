@@ -54,7 +54,7 @@
 * [¿Управление? - оч много](5.-metod/upravlenie-och-mnogo.md)
 * [Расчёты](5.-metod/raschyoty.md)
 * [!Компоненты и ¿группы?](5.-metod/komponenty-i-gruppy.md)
-* [!!!!Градуировка в методе как раздел](5.-metod/graduirovka-v-metode-kak-razdel.md)
+* [Градуировка в рабочем методе](5.-metod/graduirovka-v-rabochem-metode.md)
 * [Обработка](5.-metod/obrabotka.md)
 * [Конфигурация устройств](5.-metod/konfiguraciya-ustroistv.md)
 
