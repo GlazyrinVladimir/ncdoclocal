@@ -17,9 +17,15 @@
 * [Фильтрация шумов](2.-teoreticheskie-osnovy/filtraciya-shumov.md)
 * [Методы фильтрации  шумов](2.-teoreticheskie-osnovy/metody-filtracii-shumov.md)
 * [Разметка и интегрирование пиков](2.-teoreticheskie-osnovy/razmetka-i-integrirovanie-pikov.md)
-* [!!Идентификация пиков-многа букаф!!](2.-teoreticheskie-osnovy/identifikaciya-pikov-mnoga-bukaf.md)
-* [!Градуировка](2.-teoreticheskie-osnovy/graduirovka.md)
-* [!Количественный расчет](2.-teoreticheskie-osnovy/kolichestvennyi-raschet.md)
+* [Идентификация пиков](2.-teoreticheskie-osnovy/identifikaciya-pikov.md)
+* [???Градуировка](2.-teoreticheskie-osnovy/graduirovka.md)
+* [Количественный расчет](2.-teoreticheskie-osnovy/kolichestvennyi-raschet.md)
+* [Метод нормализации](2.-teoreticheskie-osnovy/metod-normalizacii.md)
+* [Метод внутренней нормализации](2.-teoreticheskie-osnovy/metod-vnutrennei-normalizacii.md)
+* [Метод абсолютной градуировки (метод внешнего стандарта)](2.-teoreticheskie-osnovy/metod-absolyutnoi-graduirovki-metod-vneshnego-standarta.md)
+* [Метод внутреннего стандарта](2.-teoreticheskie-osnovy/metod-vnutrennego-standarta.md)
+* [Метод стандартной добавки](2.-teoreticheskie-osnovy/metod-standartnoi-dobavki.md)
+* [Дополнительные методы расчета](2.-teoreticheskie-osnovy/dopolnitelnye-metody-rascheta.md)
 
 ## 3. Структура программы
 
