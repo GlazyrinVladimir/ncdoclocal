@@ -17,7 +17,7 @@
 * [Фильтрация шумов](2.-teoreticheskie-osnovy/filtraciya-shumov.md)
 * [Методы фильтрации  шумов](2.-teoreticheskie-osnovy/metody-filtracii-shumov.md)
 * [Разметка и интегрирование пиков](2.-teoreticheskie-osnovy/razmetka-i-integrirovanie-pikov.md)
-* [Идентификация пиков](2.-teoreticheskie-osnovy/identifikaciya-pikov.md)
+* [🤡 Идентификация пиков](2.-teoreticheskie-osnovy/identifikaciya-pikov.md)
 * [Градуировка](2.-teoreticheskie-osnovy/graduirovka.md)
 * [Количественный расчет](2.-teoreticheskie-osnovy/kolichestvennyi-raschet.md)
 * [Нормализация](2.-teoreticheskie-osnovy/normalizaciya.md)
