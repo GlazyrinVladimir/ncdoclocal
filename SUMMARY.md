@@ -49,11 +49,11 @@
 
 * [Рабочий метод](5.-metod/rabochii-metod.md)
 * [Создание метода](5.-metod/sozdanie-metoda.md)
-* [Структура метода](5.-metod/struktura-metoda.md)
+* [🤡 Структура метода](5.-metod/struktura-metoda.md)
 * [Паспорт](5.-metod/pasport.md)
 * [¿Управление? - оч много](5.-metod/upravlenie-och-mnogo.md)
 * [Расчёты](5.-metod/raschyoty.md)
-* [!Компоненты и ¿группы?](5.-metod/komponenty-i-gruppy.md)
+* [Компоненты](5.-metod/komponenty.md)
 * [Градуировка в рабочем методе](5.-metod/graduirovka-v-rabochem-metode.md)
 * [Обработка](5.-metod/obrabotka.md)
 * [Конфигурация устройств](5.-metod/konfiguraciya-ustroistv.md)
@@ -91,9 +91,9 @@
 * [Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
 * [Идентификация пиков](8.-rabota-s-khromatogrammoi/identifikaciya-pikov.md)
 * [Ручное редактирование хроматограммы](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie-khromatogrammy.md)
-* [Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/graduirovka-khromatogrammy.md)
-* [Поверка](8.-rabota-s-khromatogrammoi/poverka.md)
-* [Статистика](8.-rabota-s-khromatogrammoi/statistika.md)
+* [🤡 Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/graduirovka-khromatogrammy.md)
+* [!!!Поверка](8.-rabota-s-khromatogrammoi/poverka.md)
+* [!!!Статистика](8.-rabota-s-khromatogrammoi/statistika.md)
 
 ## 9. Сервисные функции
 
@@ -101,8 +101,8 @@
 
 ## 10. Справочник неисправностей
 
-* [Аварии и неисправности](10.-spravochnik-neispravnostei/avarii-i-neispravnosti.md)
-* [Неисправности хроматограммы](10.-spravochnik-neispravnostei/neispravnosti-khromatogrammy.md)
+* [???????Аварии и неисправности](10.-spravochnik-neispravnostei/avarii-i-neispravnosti.md)
+* [!!!Неисправности хроматограммы¿¿¿](10.-spravochnik-neispravnostei/neispravnosti-khromatogrammy.md)
 
 ## 11. Пошаговое руководство
 
