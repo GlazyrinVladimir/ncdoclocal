@@ -87,6 +87,7 @@
 ## 8. Работа с хроматограммой
 
 * [Окно обработки хроматограммы](8.-rabota-s-khromatogrammoi/okno-obrabotki-khromatogrammy.md)
+* [Настройка отображения](8.-rabota-s-khromatogrammoi/nastroika-otobrazheniya.md)
 * [Метод хроматограммы](8.-rabota-s-khromatogrammoi/metod-khromatogrammy.md)
 * [Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
 * [Идентификация пиков](8.-rabota-s-khromatogrammoi/identifikaciya-pikov.md)
