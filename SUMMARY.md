@@ -75,7 +75,7 @@
 
 * [Управление хроматографом](7.-upravlenie-khromatografom/upravlenie-khromatografom.md)
 * [Запуск анализа](7.-upravlenie-khromatografom/zapusk-analiza.md)
-* [👹 !!!!Запуск серии анализов](7.-upravlenie-khromatografom/zapusk-serii-analizov.md)
+* [👹 Запуск серии анализов](7.-upravlenie-khromatografom/zapusk-serii-analizov.md)
 * [Видеосамописец](7.-upravlenie-khromatografom/videosamopisec.md)
 * [Состояние](7.-upravlenie-khromatografom/sostoyanie.md)
 * [Диагностика](7.-upravlenie-khromatografom/diagnostika.md)
@@ -87,11 +87,12 @@
 ## 8. Работа с хроматограммой
 
 * [Окно обработки хроматограммы](8.-rabota-s-khromatogrammoi/okno-obrabotki-khromatogrammy.md)
-* [Настройка отображения](8.-rabota-s-khromatogrammoi/nastroika-otobrazheniya.md)
+* [👹 Настройка отображения](8.-rabota-s-khromatogrammoi/nastroika-otobrazheniya.md)
 * [Метод хроматограммы](8.-rabota-s-khromatogrammoi/metod-khromatogrammy.md)
 * [Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
 * [Идентификация пиков](8.-rabota-s-khromatogrammoi/identifikaciya-pikov.md)
-* [Ручное редактирование хроматограммы](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie-khromatogrammy.md)
+* [👹 Ручное редактирование хроматограммы](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie-khromatogrammy.md)
+* [Page 1](8.-rabota-s-khromatogrammoi/page-1.md)
 * [🤡 Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/graduirovka-khromatogrammy.md)
 * [Поверка](8.-rabota-s-khromatogrammoi/poverka.md)
 * [!!!Статистика](8.-rabota-s-khromatogrammoi/statistika.md)
