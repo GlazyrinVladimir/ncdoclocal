@@ -4,7 +4,7 @@
 
 Конфигурирование табличных полей выполняется во вкладке **«Формат таблиц»** общего диалогового окна настроек программы.&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Раздел настроек результативных таблиц хромтограммы</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Раздел настроек результативных таблиц хромтограммы</p></figcaption></figure></div>
 
 ## Конфигурируемые информационные группы
 

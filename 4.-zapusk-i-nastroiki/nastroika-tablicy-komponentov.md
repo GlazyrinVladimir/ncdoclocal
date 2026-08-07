@@ -44,6 +44,6 @@
   * _Если включено:_ в таблице будут видны все компоненты метода (с нулевыми значениями).
   * _Если выключено:_ в таблице останутся только реально найденные пики.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Раздел настроек, отвечающий за таблицу "Компоненты"</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Раздел настроек, отвечающий за таблицу "Компоненты"</p></figcaption></figure></div>
 
 ***
