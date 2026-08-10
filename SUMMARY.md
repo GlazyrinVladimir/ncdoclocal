@@ -97,14 +97,15 @@
 * [Метод хроматограммы](8.-rabota-s-khromatogrammoi/metod-khromatogrammy.md)
 * [Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
 * [Идентификация пиков](8.-rabota-s-khromatogrammoi/identifikaciya-pikov.md)
-* [👹 Ручное редактирование хроматограммы](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie-khromatogrammy.md)
-* [Page 1](8.-rabota-s-khromatogrammoi/page-1.md)
+* [👹 Ручное редактирование пиков](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie-pikov.md)
+* [👹 События интегрирования](8.-rabota-s-khromatogrammoi/sobytiya-integrirovaniya.md)
 * [🤡 Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/graduirovka-khromatogrammy.md)
-* [Поверка](8.-rabota-s-khromatogrammoi/poverka.md)
-* [!!!Статистика](8.-rabota-s-khromatogrammoi/statistika.md)
+* [👹 Просмотр результатов](8.-rabota-s-khromatogrammoi/prosmotr-rezultatov.md)
 
 ## 9. Сервисные функции
 
+* [Не совсем поверка](9.-servisnye-funkcii/ne-sovsem-poverka.md)
+* [!!!Статистика](9.-servisnye-funkcii/statistika.md)
 * [!!!Печать отчёта](9.-servisnye-funkcii/pechat-otchyota.md)
 
 ## 10. Справочник неисправностей
