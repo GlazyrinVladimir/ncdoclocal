@@ -36,7 +36,7 @@
 
 ## 4. Запуск и настройки
 
-* [!Установка?=](4.-zapusk-i-nastroiki/ustanovka.md)
+* [🤡 !Установка?=](4.-zapusk-i-nastroiki/ustanovka.md)
 * [Запуск](4.-zapusk-i-nastroiki/zapusk.md)
 * [Настройки](4.-zapusk-i-nastroiki/nastroiki.md)
 * [Настройка отображения хроматограмм](4.-zapusk-i-nastroiki/nastroika-otobrazheniya-khromatogramm.md)
@@ -71,7 +71,7 @@
 * [Конфигурация хроматографа](6.-konfiguraciya-khromatografa/konfiguraciya-khromatografa.md)
 * [Регуляторы расхода газа](6.-konfiguraciya-khromatografa/regulyatory-raskhoda-gaza.md)
 * [Регуляторы давления](6.-konfiguraciya-khromatografa/regulyatory-davleniya.md)
-* [Регуляторы для ДТП](6.-konfiguraciya-khromatografa/regulyatory-dlya-dtp.md)
+* [Регуляторы ДТП](6.-konfiguraciya-khromatografa/regulyatory-dtp.md)
 * [Колонки](6.-konfiguraciya-khromatografa/kolonki.md)
 * [Устройства](6.-konfiguraciya-khromatografa/ustroistva.md)
 * [Блокировки](6.-konfiguraciya-khromatografa/blokirovki.md)
@@ -81,7 +81,7 @@
 
 * [Управление хроматографом](7.-upravlenie-khromatografom/upravlenie-khromatografom.md)
 * [Запуск анализа](7.-upravlenie-khromatografom/zapusk-analiza.md)
-* [👹 Запуск серии анализов](7.-upravlenie-khromatografom/zapusk-serii-analizov.md)
+* [🤡 Запуск серии анализов](7.-upravlenie-khromatografom/zapusk-serii-analizov.md)
 * [Видеосамописец](7.-upravlenie-khromatografom/videosamopisec.md)
 * [Состояние](7.-upravlenie-khromatografom/sostoyanie.md)
 * [Диагностика](7.-upravlenie-khromatografom/diagnostika.md)
@@ -92,7 +92,7 @@
 
 ## 8. Работа с хроматограммой
 
-* [👹 Окно обработки хроматограммы](8.-rabota-s-khromatogrammoi/okno-obrabotki-khromatogrammy.md)
+* [Окно обработки хроматограммы](8.-rabota-s-khromatogrammoi/okno-obrabotki-khromatogrammy.md)
 * [👹 Настройка отображения](8.-rabota-s-khromatogrammoi/nastroika-otobrazheniya.md)
 * [Метод хроматограммы](8.-rabota-s-khromatogrammoi/metod-khromatogrammy.md)
 * [Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
@@ -112,7 +112,3 @@
 
 * [???????Аварии и неисправности](10.-spravochnik-neispravnostei/avarii-i-neispravnosti.md)
 * [!!!Неисправности хроматограммы¿¿¿](10.-spravochnik-neispravnostei/neispravnosti-khromatogrammy.md)
-
-## 11. Пошаговое руководство
-
-* [!Гайд по хромотографии](11.-poshagovoe-rukovodstvo/gaid-po-khromotografii.md)
