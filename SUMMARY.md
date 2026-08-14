@@ -93,10 +93,9 @@
 ## 8. Работа с хроматограммой
 
 * [Окно обработки хроматограммы](8.-rabota-s-khromatogrammoi/okno-obrabotki-khromatogrammy.md)
-* [👹 Настройка отображения](8.-rabota-s-khromatogrammoi/nastroika-otobrazheniya.md)
 * [Метод хроматограммы](8.-rabota-s-khromatogrammoi/metod-khromatogrammy.md)
 * [Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
-* [👹 Ручная обработка хроматограммы](8.-rabota-s-khromatogrammoi/ruchnaya-obrabotka-khromatogrammy.md)
+* [🤡 Ручная обработка хроматограммы](8.-rabota-s-khromatogrammoi/ruchnaya-obrabotka-khromatogrammy.md)
 * [Идентификация пиков](8.-rabota-s-khromatogrammoi/identifikaciya-pikov.md)
 * [👹 Ручное редактирование пиков](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie-pikov.md)
 * [🤡 Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/graduirovka-khromatogrammy.md)
@@ -104,11 +103,11 @@
 
 ## 9. Сервисные функции
 
-* [Не совсем поверка](9.-servisnye-funkcii/ne-sovsem-poverka.md)
+* [Оценка шума, дрейфа и предела](9.-servisnye-funkcii/ocenka-shuma-dreifa-i-predela.md)
 * [!!!Статистика](9.-servisnye-funkcii/statistika.md)
 * [!!!Печать отчёта](9.-servisnye-funkcii/pechat-otchyota.md)
 
 ## 10. Справочник неисправностей
 
-* [???????Аварии и неисправности](10.-spravochnik-neispravnostei/avarii-i-neispravnosti.md)
+* [Аварии и неисправности](10.-spravochnik-neispravnostei/avarii-i-neispravnosti.md)
 * [!!!Неисправности хроматограммы¿¿¿](10.-spravochnik-neispravnostei/neispravnosti-khromatogrammy.md)
