@@ -11,6 +11,8 @@
 * **Перетаскивание узлов базовой линии:** Для корректировки границ достаточно нажать ЛКМ на интересующий пик для его выделения. На границах базовой линии (в точках начала и окончания пика) отобразятся интерактивные маркеры (узлы). Зажмите маркер левой кнопкой мыши и свободно перетащите его в требуемое положение на графике. Пересчет площади и высоты компонента выполнится автоматически «на лету».
 * **Быстрое создание пика с клавиатуры (Alt + клики):** Для оперативной разметки пропущенного пика зажмите и удерживайте клавишу **Alt** на клавиатуре. Не отпуская её, выполните два последовательных клика ЛКМ на графике: первый — в точке предполагаемого начала пика, второй — в точке его окончания. Программа автоматически определит вершину (максимум) сигнала, построит базовую линию и внесет элемент в таблицу результатов.
 
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (300).png" alt=""><figcaption><p>Создание пика через комбинацию Alt+ЛКМ</p></figcaption></figure></div>
+
 **Динамическая панель графического редактирования**
 
 Состав и доступность кнопок на плавающей панели в правой части графического поля зависят от текущего состояния выделения элементов на хроматограмме:
@@ -34,5 +36,55 @@
 * **Наездник (Тангенциальное разделение):** Применяется, если малый (микропримесный) пик выходит на спадающем склоне крупного основного компонента. Базовая линия малого пика строится как касательная линия, соединяющая точку впадины с точкой завершения на изолинии. Вертикальный перпендикуляр убирается, а отсекаемая им площадь под склоном основного пика полностью исключается из расчета наездника.
 * **Хвостатый:** Визуальное отображение и геометрия разметки по касательной полностью аналогичны типу «Наездник». Данный статус используется в случаях, когда предыдущий крупный компонент имеет сильно затянутый асимметричный задний фронт («хвост»), перетекающий в подножие следующего пика, чтобы исключить влияние этого шлейфа на результаты измерения примеси.
 * **Базовый пик (Разделение по долинам):** Применяется для изменения алгоритма разделения группы слившихся пиков. Программа автоматически удаляет вертикальный перпендикуляр, опущенный к общей изолинии, и строит индивидуальные базовые линии для каждого компонента в группе непосредственно через общую точку впадины (долины) между ними.
+
+### Масштабирование
+
+<figure><img src="../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
+
+### Удаление разметки
+
+<figure><img src="../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
+
+### Создание пика
+
+<figure><img src="../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
+
+### Редактирование границ пика
+
+<figure><img src="../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
+
+### Автоматическая разметка компонентов
+
+<figure><img src="../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
+
+### Ручной выбор компонента
+
+<figure><img src="../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
 
 ***
