@@ -104,10 +104,9 @@
 ## 9. Сервисные функции
 
 * [Оценка шума, дрейфа и предела](9.-servisnye-funkcii/ocenka-shuma-dreifa-i-predela.md)
-* [!!!Статистика](9.-servisnye-funkcii/statistika.md)
+* [!!!Статистика - пока не работает](9.-servisnye-funkcii/statistika-poka-ne-rabotaet.md)
 * [!!!Печать отчёта](9.-servisnye-funkcii/pechat-otchyota.md)
 
 ## 10. Справочник неисправностей
 
 * [Аварии и неисправности](10.-spravochnik-neispravnostei/avarii-i-neispravnosti.md)
-* [!!!Неисправности хроматограммы¿¿¿](10.-spravochnik-neispravnostei/neispravnosti-khromatogrammy.md)
