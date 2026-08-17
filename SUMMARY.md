@@ -36,7 +36,7 @@
 
 ## 4. Запуск и настройки
 
-* [🤡 !Установка?=](4.-zapusk-i-nastroiki/ustanovka.md)
+* [!Установка?=](4.-zapusk-i-nastroiki/ustanovka.md)
 * [Запуск](4.-zapusk-i-nastroiki/zapusk.md)
 * [Настройки](4.-zapusk-i-nastroiki/nastroiki.md)
 * [Настройка отображения хроматограмм](4.-zapusk-i-nastroiki/nastroika-otobrazheniya-khromatogramm.md)
@@ -93,20 +93,23 @@
 ## 8. Работа с хроматограммой
 
 * [Окно обработки хроматограммы](8.-rabota-s-khromatogrammoi/okno-obrabotki-khromatogrammy.md)
+* [Настройки отображения](8.-rabota-s-khromatogrammoi/nastroiki-otobrazheniya.md)
 * [Метод хроматограммы](8.-rabota-s-khromatogrammoi/metod-khromatogrammy.md)
 * [Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
 * [Ручная обработка хроматограммы](8.-rabota-s-khromatogrammoi/ruchnaya-obrabotka-khromatogrammy.md)
 * [Идентификация пиков](8.-rabota-s-khromatogrammoi/identifikaciya-pikov.md)
 * [Ручное редактирование пиков](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie-pikov.md)
 * [Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/graduirovka-khromatogrammy.md)
-* [👹 Просмотр результатов](8.-rabota-s-khromatogrammoi/prosmotr-rezultatov.md)
+* [Просмотр результатов](8.-rabota-s-khromatogrammoi/prosmotr-rezultatov.md)
 
 ## 9. Сервисные функции
 
 * [Оценка шума, дрейфа и предела](9.-servisnye-funkcii/ocenka-shuma-dreifa-i-predela.md)
-* [!!!Статистика](9.-servisnye-funkcii/statistika.md)
-* [!!!Печать отчёта](9.-servisnye-funkcii/pechat-otchyota.md)
+* [Статистика](9.-servisnye-funkcii/statistika.md)
+* [Печать метода](9.-servisnye-funkcii/pechat-metoda.md)
+* [Печать отчёта](9.-servisnye-funkcii/pechat-otchyota.md)
 
 ## 10. Справочник неисправностей
 
 * [Аварии и неисправности](10.-spravochnik-neispravnostei/avarii-i-neispravnosti.md)
+* [Неисправности хроматограммы](10.-spravochnik-neispravnostei/neispravnosti-khromatogrammy.md)
