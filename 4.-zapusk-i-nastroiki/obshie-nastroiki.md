@@ -4,7 +4,7 @@
 
 Конфигурирование системных параметров выполняется во вкладке **«Общие»** главного диалогового окна настроек программы.&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption><p>Общий вид окна</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (341).png" alt=""><figcaption><p>Общие настройки программы</p></figcaption></figure></div>
 
 **Состав конфигурируемых системных блоков**
 

@@ -81,7 +81,7 @@
 
 * [Управление хроматографом](7.-upravlenie-khromatografom/upravlenie-khromatografom.md)
 * [Запуск анализа](7.-upravlenie-khromatografom/zapusk-analiza.md)
-* [🤡 Запуск серии анализов](7.-upravlenie-khromatografom/zapusk-serii-analizov.md)
+* [Запуск серии анализов](7.-upravlenie-khromatografom/zapusk-serii-analizov.md)
 * [Видеосамописец](7.-upravlenie-khromatografom/videosamopisec.md)
 * [Состояние](7.-upravlenie-khromatografom/sostoyanie.md)
 * [Диагностика](7.-upravlenie-khromatografom/diagnostika.md)
