@@ -97,7 +97,7 @@
 * [Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
 * [🤡 Ручная обработка хроматограммы](8.-rabota-s-khromatogrammoi/ruchnaya-obrabotka-khromatogrammy.md)
 * [Идентификация пиков](8.-rabota-s-khromatogrammoi/identifikaciya-pikov.md)
-* [👹 Ручное редактирование пиков](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie-pikov.md)
+* [Ручное редактирование пиков](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie-pikov.md)
 * [🤡 Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/graduirovka-khromatogrammy.md)
 * [👹 Просмотр результатов](8.-rabota-s-khromatogrammoi/prosmotr-rezultatov.md)
 

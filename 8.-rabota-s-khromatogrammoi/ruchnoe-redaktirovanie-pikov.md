@@ -1,4 +1,4 @@
-# 👹 Ручное редактирование пиков
+# Ручное редактирование пиков
 
 С помощью настройки параметров операции «Интегрирование» не всегда удается добиться автоматической корректной разметки пиков на хроматограмме. Для устранения этой проблемы прямо на графике хроматограммы можно визуально откорректировать положение характерных точек пика. Изменения выполняются интерактивно на самом графике, через контекстное меню правой кнопки мыши (ПКМ) или с помощью плавающей панели графического редактирования в правой части окна хроматограммы.
 
@@ -61,11 +61,11 @@
 * **Способ А (Через контекстное меню):** Нажмите правую кнопку мыши (**ПКМ**) в любой точке графика и в открывшемся меню выберите команду **«На весь экран»**.
 * **Способ Б (Горячие клавиши):** Используйте стандартную быструю комбинацию клавиш **Ctrl + A** на клавиатуре.
 
-<figure><img src="../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (302).png" alt=""><figcaption><p>Начальный масштаб хроматограммы</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (303).png" alt=""><figcaption><p>Выделяем вышью необходимую область для увеличения</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (304).png" alt=""><figcaption><p>Увеличенный масштаб выделенной части хроматограммы</p></figcaption></figure></div>
 
 ## Навигация внутри увеличенного участка
 
@@ -75,9 +75,7 @@
 * **Прокрутка по времени:** Для перемещения графика влево или вправо используйте горизонтальную полосу прокрутки (скроллбар) под осью времени.
 * **Масштабирование колесом мыши:** Прокрутка колеса мыши вверх/вниз в поле графика позволяет осуществлять плавное пошаговое приближение или удаление сигнала относительно текущего положения курсора.
 
-<figure><img src="../.gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (338).png" alt=""><figcaption><p>Смещение базовой линии вниз</p></figcaption></figure></div>
 
 ## Удаление разметки
 
@@ -104,9 +102,7 @@
    * **Пиков справа** — команда стирает разметку всех компонентов, находящихся правее (позже по времени) выделенного пика. Применяется для моментальной очистки протяженных участков шума в конце анализа.
    * **Неидентифицированных пиков** — важнейшая сервисная функция, позволяющая в один клик очистить хроматограмму от фонового шума. Программа проанализирует график и удалит разметку только тех пиков, для которых не было найдено совпадений по времени удерживания в _Редакторе компонентов_ текущего метода. Все целевые (идентифицированные и подписанные) газы гарантированно останутся на графике.
 
-<figure><img src="../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (339).png" alt=""><figcaption><p>Удаление всех пиков</p></figcaption></figure></div>
 
 ## Создание пиков
 
@@ -132,15 +128,15 @@
 * **Построение геометрии:** Программа проводит под пиком локальный отрезок базовой линии и расставляет интерактивные маркеры-узлы (черные точки) на его границах.
 * **Обновление отчетов:** Измеренная высота и рассчитанная площадь нового компонента заносятся во вкладку результатов _«Пики»_.
 
-<figure><img src="../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (310).png" alt=""><figcaption><p>Неразмеченный пик</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (311).png" alt=""><figcaption><p>Добавление пика через контекстное меню</p></figcaption></figure></div>
 
 
 
-<figure><img src="../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (312).png" alt=""><figcaption><p>Выбор точек начала и конца пика</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (313).png" alt=""><figcaption><p>Размеченный пик</p></figcaption></figure></div>
 
 ## Редактирование границ пика
 
@@ -155,20 +151,18 @@
 Математический пересчет высоты, площади и процентного содержания компонента выполняется программным комплексом автоматически в момент отпускания левой кнопки мыши.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (317).png" alt=""><figcaption><p>Изменение границ пика</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (318).png" alt=""><figcaption><p>При необходимости можно изменить положение вершины</p></figcaption></figure></div>
 
 ## Автоматическая разметка компонентов
 
 Как только ручной пик зафиксирован на хроматограмме, запускается алгоритм идентификации в фоновом режиме:
 
 * Программа считывает полученное время удерживания вершины и сопоставляет его с временными окнами (допусками), заданными в _Компонентах_ текущего метода.
-* Если в методе присутствуеткомпонент, выходящий в этот временной интервал, программа автоматически присваивает пику его наименование.
+* Если в методе присутствует компонент, выходящий в этот временной интервал, программа автоматически присваивает пику его наименование.
 
-<figure><img src="../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (315).png" alt=""><figcaption><p>Компоненты размечаются автоматически, если они заданны в методе</p></figcaption></figure></div>
 
 ## Ручной выбор компонента
 
@@ -189,8 +183,8 @@
 Если вам необходимо отменить ручную привязку и снова сделать пик неидентифицированным, повторно откройте этот выпадающий список в таблице и выберите самую верхнюю строку — **«Нет компонента»**.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (319).png" alt=""><figcaption><p>Руной выбор компонента</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (320).png" alt=""><figcaption><p>Выбранный вручную компонент присвоен пику на хроматограмме и в итоговой таблице</p></figcaption></figure></div>
 
 ***
