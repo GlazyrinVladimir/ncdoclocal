@@ -6,7 +6,7 @@
 * **Выход на режим** — для оперативной оценки стабильности нулевой линии и текущего уровня высокочастотных шумов;
 * **Выполнение анализа** — для визуального мониторинга процесса разделения компонентов и регистрации хроматограммы.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption><p>Вкладка видеосамописец</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Вкладка видеосамописца</p></figcaption></figure></div>
 
 ## Основные элементы управления
 
@@ -71,7 +71,7 @@
 * `→` (Вправо) — растянуть график в два раза по горизонтали (увеличение временного разрешения);
 * `←` (Влево) — сжать график в два раза по горизонтали.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption><p>Изменение масштаба с помощью клавиатуры</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Исходное состояние                Вверх                                      Вниз                            Вправо                                 Влево                                                                                </p></figcaption></figure></div>
 
 ## Диагностика состояния ГХ по сигналу видеосамописца
 

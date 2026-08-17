@@ -22,7 +22,7 @@
 При работе с крио клапаном возможен ввод отрицательного значения температуры термостата колонок при условии, что в Конфигурации включен **переключатель Крио клапан**.&#x20;
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Вкладка температуры</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Вкладка температуры</p></figcaption></figure></div>
 
 ## Программирование температуры колонки
 

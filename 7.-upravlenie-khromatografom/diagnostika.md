@@ -6,7 +6,7 @@
 
 Интерфейс вкладки разделен на три основных информационных блока.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption><p>Диагностика работающего хроматографа</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (344).png" alt=""><figcaption><p>Вкладка диагностика</p></figcaption></figure></div>
 
 ## Параметры напряжения
 
