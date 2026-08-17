@@ -95,16 +95,16 @@
 * [Окно обработки хроматограммы](8.-rabota-s-khromatogrammoi/okno-obrabotki-khromatogrammy.md)
 * [Метод хроматограммы](8.-rabota-s-khromatogrammoi/metod-khromatogrammy.md)
 * [Обработка хроматограммы](8.-rabota-s-khromatogrammoi/obrabotka-khromatogrammy.md)
-* [🤡 Ручная обработка хроматограммы](8.-rabota-s-khromatogrammoi/ruchnaya-obrabotka-khromatogrammy.md)
+* [Ручная обработка хроматограммы](8.-rabota-s-khromatogrammoi/ruchnaya-obrabotka-khromatogrammy.md)
 * [Идентификация пиков](8.-rabota-s-khromatogrammoi/identifikaciya-pikov.md)
 * [Ручное редактирование пиков](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie-pikov.md)
-* [🤡 Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/graduirovka-khromatogrammy.md)
+* [Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/graduirovka-khromatogrammy.md)
 * [👹 Просмотр результатов](8.-rabota-s-khromatogrammoi/prosmotr-rezultatov.md)
 
 ## 9. Сервисные функции
 
 * [Оценка шума, дрейфа и предела](9.-servisnye-funkcii/ocenka-shuma-dreifa-i-predela.md)
-* [!!!Статистика - пока не работает](9.-servisnye-funkcii/statistika-poka-ne-rabotaet.md)
+* [!!!Статистика](9.-servisnye-funkcii/statistika.md)
 * [!!!Печать отчёта](9.-servisnye-funkcii/pechat-otchyota.md)
 
 ## 10. Справочник неисправностей
