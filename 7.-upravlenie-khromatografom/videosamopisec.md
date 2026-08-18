@@ -6,7 +6,7 @@
 * **Выход на режим** — для оперативной оценки стабильности нулевой линии и текущего уровня высокочастотных шумов;
 * **Выполнение анализа** — для визуального мониторинга процесса разделения компонентов и регистрации хроматограммы.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Вкладка видеосамописца</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Вкладка видеосамописца</p></figcaption></figure></div>
 
 ## Основные элементы управления
 

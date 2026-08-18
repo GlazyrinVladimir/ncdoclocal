@@ -43,7 +43,7 @@
 
 3. При выборе пункта "Создать метод" автоматически откроется новосозданный метод.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Окно рабочего метода</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (362).png" alt=""><figcaption><p>Вкладка с рабочим методом</p></figcaption></figure></div>
 
 ## Оперативное создание рабочего метода через модуль управления прибором
 

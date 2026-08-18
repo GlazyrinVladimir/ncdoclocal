@@ -33,6 +33,6 @@
 При установке параметров экономии всегда следите за тем, чтобы поток газа-носителя через колонку оставался достаточным для предотвращения диффузии воздуха внутрь системы, особенно при высоких температурах термостата.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption><p>Экономия</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Пример параметров экономии</p></figcaption></figure></div>
 
 ***

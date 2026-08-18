@@ -60,6 +60,7 @@
 * [Экономия](5.-metod/ekonomiya.md)
 * [Сплит](5.-metod/split.md)
 * [Расчёты](5.-metod/raschyoty.md)
+* [Идентификация пиков](5.-metod/identifikaciya-pikov.md)
 * [Компоненты](5.-metod/komponenty.md)
 * [Градуировка в рабочем методе](5.-metod/graduirovka-v-rabochem-metode.md)
 * [Обработка](5.-metod/obrabotka.md)
