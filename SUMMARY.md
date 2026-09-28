@@ -36,7 +36,7 @@
 
 ## 4. Запуск и настройки
 
-* [!Установка?=](4.-zapusk-i-nastroiki/ustanovka.md)
+* [Установка](4.-zapusk-i-nastroiki/ustanovka.md)
 * [Запуск](4.-zapusk-i-nastroiki/zapusk.md)
 * [Настройки](4.-zapusk-i-nastroiki/nastroiki.md)
 * [Настройка отображения хроматограмм](4.-zapusk-i-nastroiki/nastroika-otobrazheniya-khromatogramm.md)
@@ -107,6 +107,7 @@
 
 * [Оценка шума, дрейфа и предела](9.-servisnye-funkcii/ocenka-shuma-dreifa-i-predela.md)
 * [Статистика](9.-servisnye-funkcii/statistika.md)
+* [Поверка](9.-servisnye-funkcii/poverka.md)
 * [Печать метода](9.-servisnye-funkcii/pechat-metoda.md)
 * [Печать отчёта](9.-servisnye-funkcii/pechat-otchyota.md)
 
