@@ -122,13 +122,18 @@
 * [Инвертирование](dopolnitelnaya-obrabotka-khromatogramm/invertirovanie.md)
 * [Фильтрация](dopolnitelnaya-obrabotka-khromatogramm/filtraciya.md)
 
-## 9. Сервисные функции
+## 9. Метрологический контроль
 
-* [Оценка шума, дрейфа и предела](9.-servisnye-funkcii/ocenka-shuma-dreifa-i-predela.md)
-* [Статистика](9.-servisnye-funkcii/statistika.md)
-* [Поверка](9.-servisnye-funkcii/poverka.md)
-* [Печать метода](9.-servisnye-funkcii/pechat-metoda.md)
-* [Печать отчёта](9.-servisnye-funkcii/pechat-otchyota.md)
+* [Оценка шума, дрейфа и предела](9.-metrologicheskii-kontrol/ocenka-shuma-dreifa-i-predela.md)
+* [Статистика](9.-metrologicheskii-kontrol/statistika.md)
+* [Поверка](9.-metrologicheskii-kontrol/poverka.md)
+
+## Печать
+
+***
+
+* [Печать отчёта](pechat-otchyota.md)
+* [Печать метода](pechat-metoda.md)
 
 ## 10. Справочник неисправностей
 
