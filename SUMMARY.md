@@ -83,6 +83,8 @@
 * [Управление хроматографом](7.-upravlenie-khromatografom/upravlenie-khromatografom.md)
 * [Запуск анализа](7.-upravlenie-khromatografom/zapusk-analiza.md)
 * [Запуск серии анализов](7.-upravlenie-khromatografom/zapusk-serii-analizov.md)
+* [Планировщик серии анализов](7.-upravlenie-khromatografom/planirovshik-serii-analizov.md)
+* [Конфигурация дозатора](7.-upravlenie-khromatografom/konfiguraciya-dozatora.md)
 * [Видеосамописец](7.-upravlenie-khromatografom/videosamopisec.md)
 * [Состояние](7.-upravlenie-khromatografom/sostoyanie.md)
 * [Диагностика](7.-upravlenie-khromatografom/diagnostika.md)
@@ -90,6 +92,13 @@
 * [Неисправности и регламент](7.-upravlenie-khromatografom/neispravnosti-i-reglament.md)
 * [Журнал](7.-upravlenie-khromatografom/zhurnal.md)
 * [Дополнительные режимы](7.-upravlenie-khromatografom/dopolnitelnye-rezhimy.md)
+
+## Проведение анализа
+
+* [Одиночный анализ](provedenie-analiza/odinochnyi-analiz.md)
+* [Серия анализов](provedenie-analiza/seriya-analizov.md)
+* [Серия градуировки](provedenie-analiza/seriya-graduirovki.md)
+* [Запись хроматограммы](provedenie-analiza/zapis-khromatogrammy.md)
 
 ## 8. Работа с хроматограммой
 
@@ -102,6 +111,16 @@
 * [Ручное редактирование пиков](8.-rabota-s-khromatogrammoi/ruchnoe-redaktirovanie-pikov.md)
 * [Градуировка хроматограммы](8.-rabota-s-khromatogrammoi/graduirovka-khromatogrammy.md)
 * [Просмотр результатов](8.-rabota-s-khromatogrammoi/prosmotr-rezultatov.md)
+
+## Дополнительная обработка хроматограмм
+
+* [Операции с хроматограммами](dopolnitelnaya-obrabotka-khromatogramm/operacii-s-khromatogrammami.md)
+* [Вычитание](dopolnitelnaya-obrabotka-khromatogramm/vychitanie.md)
+* [Сложение](dopolnitelnaya-obrabotka-khromatogramm/slozhenie.md)
+* [Сравнение](dopolnitelnaya-obrabotka-khromatogramm/sravnenie.md)
+* [Усреднение](dopolnitelnaya-obrabotka-khromatogramm/usrednenie.md)
+* [Инвертирование](dopolnitelnaya-obrabotka-khromatogramm/invertirovanie.md)
+* [Фильтрация](dopolnitelnaya-obrabotka-khromatogramm/filtraciya.md)
 
 ## 9. Сервисные функции
 
