@@ -81,10 +81,7 @@
 ## 7. Управление хроматографом
 
 * [Управление хроматографом](7.-upravlenie-khromatografom/upravlenie-khromatografom.md)
-* [Запуск анализа](7.-upravlenie-khromatografom/zapusk-analiza.md)
-* [Запуск серии анализов](7.-upravlenie-khromatografom/zapusk-serii-analizov.md)
-* [Планировщик серии анализов](7.-upravlenie-khromatografom/planirovshik-serii-analizov.md)
-* [Конфигурация дозатора](7.-upravlenie-khromatografom/konfiguraciya-dozatora.md)
+* [Передача метода на ГХ](7.-upravlenie-khromatografom/peredacha-metoda-na-gkh.md)
 * [Видеосамописец](7.-upravlenie-khromatografom/videosamopisec.md)
 * [Состояние](7.-upravlenie-khromatografom/sostoyanie.md)
 * [Диагностика](7.-upravlenie-khromatografom/diagnostika.md)
@@ -95,8 +92,11 @@
 
 ## Проведение анализа
 
+* [Запуск анализа](provedenie-analiza/zapusk-analiza.md)
+* [Запуск серии анализов](provedenie-analiza/zapusk-serii-analizov.md)
 * [Одиночный анализ](provedenie-analiza/odinochnyi-analiz.md)
 * [Серия анализов](provedenie-analiza/seriya-analizov.md)
+* [Конфигурация дозатора](provedenie-analiza/konfiguraciya-dozatora.md)
 * [Серия градуировки](provedenie-analiza/seriya-graduirovki.md)
 * [Запись хроматограммы](provedenie-analiza/zapis-khromatogrammy.md)
 
