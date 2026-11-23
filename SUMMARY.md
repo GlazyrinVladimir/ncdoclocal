@@ -126,7 +126,7 @@
 
 * [Оценка шума, дрейфа и предела](9.-metrologicheskii-kontrol/ocenka-shuma-dreifa-i-predela.md)
 * [Статистика](9.-metrologicheskii-kontrol/statistika.md)
-* [Поверка](9.-metrologicheskii-kontrol/poverka.md)
+* [Поверка - ассистент](9.-metrologicheskii-kontrol/poverka-assistent.md)
 
 ## Печать
 
